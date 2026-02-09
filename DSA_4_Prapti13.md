@@ -1,0 +1,1 @@
+We use doubly linked list consisting of prev and next pointer along with the value. The linkedlisttraversal() helps us to print the value by moving pointer forward and printing the value. And insertafternode() helps in inserting the value by pointing the prev and next pointer as asked. The deleteatgivennode() helps in deleting the value and after freeing pointer pointing to it.
