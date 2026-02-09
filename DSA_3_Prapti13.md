@@ -1,0 +1,1 @@
+In this program, we use singly linked list contains an integer data and pointer. We use insertatend() to insert the values at the end and reversetraversal()performs reverse traversal of linked list using recursion. The main() function demonstrate the working of the program by creating linked list.
