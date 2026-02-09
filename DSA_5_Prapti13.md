@@ -1,0 +1,1 @@
+An undirected graph consist of a set of vertices and edges where edges have no direction. It can be efficiently represented using an adjacency matrix. BFS traverses the graph level by level using a queue while DFS explores each path deeply using recursion. 
