@@ -1,0 +1,1 @@
+This program generates a list of N random integers in the range of 1 to 1000, where N is provided by the user at runtime. The user can select the type of sort they want and the program applies the corresponding code.The program displays the list of numbers before and after sorting and  counts the total number of comparisons and swaps performed during the sorting process.
