@@ -1,0 +1,2 @@
+A heap is a complete binary tree that statisfies the heap property.
+A min heap and a max heap can be built efficiently from an unsorted array using the heapify method by processing nodes from the last non-leaf node to the root, ensuring the heap property is satisfies.
